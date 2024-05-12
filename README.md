@@ -1,3 +1,5 @@
+link to deployed page on vercel - https://week-08-project-sooty.vercel.app/
+
 User Stories
 🐿️ As a user, I want to browse a list of posts, sortable by ascending or descending order
 🐿️ As a user, I want to see a list of categories, and click on a category to see a list of posts in that category
